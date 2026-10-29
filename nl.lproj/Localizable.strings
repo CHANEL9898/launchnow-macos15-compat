@@ -1,0 +1,74 @@
+//
+//  Localizable.strings
+//  LaunchNow
+//
+//  Created by OABsoftware on 10/17/2025.
+//  Updated by OABsoftware on 15/06/2026.
+//
+
+//SettingsView
+"Style" = "Klassiek Launchpad (volledig scherm)";
+"ShowAppName" = "Toon app namen";
+"ScrollSensitivity" = "Scroll gevoeligheid";
+"Low" = "Laag";
+"High" = "Hoog";
+"Export" = "Configuratie exporteren";
+"Import" = "Configuratie importeren";
+"Refresh" = "Vernieuwen";
+"ResetLayout" = "Indeling opnieuw instellen";
+"ConfirmReset" = "Weet je zeker dat je de indeling opnieuw wilt instellen?";
+"Reset" = "Herstellen";
+"Cancel" = "Annuleren";
+"ResetAlert" = "Deze actie zal LaunchNow helemaal opnieuw instellen: alle mappen worden verwijderd, de volgorde van apps wordt hersteld en alle apps worden opnieuw toegevoegd. Al je eigen aanpassingen gaan verloren.";
+"Quit" = "Afsluiten";
+"DisplayedLanguage" = "Getoonde taal";
+"Language" = "Taal...";
+"ShowWelcome" = "Toon introductie";
+"Confirm" = "Ok";
+"CheckUpdates" = "Zoek naar update";
+
+//LaunchpadView
+"Search" = "Zoeken";
+"NoAppsFound" = "Geen apps gevonden";
+
+//FolderView
+"FolderName" = "Map naam";
+
+//FolderInfo
+"Untitled" = "(geen titel)";
+
+//WelcomeView
+"Welcome" = "Welkom bij LaunchNow";
+"Drag" = "Versleep een app om de volgorde aan te passen.";
+"Hover" = "Sleep een app over een andere heen om een map te maken. Sleep een app over een map om de app aan die map toe te voegen; houdt daarbij de OPTIE toets ingedrukt om te voorkomen dat de andere apps en mappen verschuiven.";
+"Scroll" = "Scroll om naar de volgende of vorige pagina met apps te gaan.";
+"RunOnBackground" = "Om LaunchNow automatisch op de achtergrond te laten draaien, kun je de LaunchNow app naar de dock slepen.";
+"StartNow" = "Beginnen maar!";
+"Keyboard" = "Toetsenbord navigatie wordt ondersteund. Gebruik TAB of SHIFT+TAB om naar respectievelijk de volgende of de vorige pagina met apps te gaan. Gebruik de pijltjes toetsen om naar de gewenste app te navigeren. Gebruik ENTER om de app te starten.";
+
+//Updater
+"FoundNewVersion" = "Nieuwe versie gevonden: ";
+"GoToGithub" = "Ga naar GitHub om de nieuwste versie te downloaden en te installeren.";
+"AlreadyLatest" = "Je gebruikt al de nieuwste versie: ";
+"Enjoy" = "Veel plezier!";
+
+//new
+"CustomizeScannedFolder" = "Gescande mappen aanpassen";
+"Add" = "Map toevoegen";
+"AddFolder" = "Toevoegen";
+"ResetToDefault" = "Standaard mappen";
+"NoFolders" = "Geen mappen";
+
+"IconSize" = "Pictogram formaat";
+"Small" = "Klein";
+"Large" = "Groot";
+"DefaultSize" = "Standaard";
+
+"HiddenApps" = "Verborgen apps";
+"HideAppsHint" = "Selecteer de apps die je wilt verbergen; die verdwijnen uit het overzicht.";
+"NoHiddenApps" = "Geen verborgen apps";
+"Hide" = "Verberg";
+"ClearHiddenApps" = "Wis verborgen apps";
+"MoveToFolder" = "Verplaats naar map";
+"Gesture" = "4-vingerige beweging op trackpad";
+"MaterialOpacity" = "Materiaal dekking";
