@@ -101,7 +101,7 @@ struct LaunchpadItemButton: View {
 
                 if showAppNameBelowIcon {
                     Text(item.name)
-                        .font(.default)
+                        .font(.body)
                         .lineLimit(2)
                         .multilineTextAlignment(.center)
                         .truncationMode(.tail)

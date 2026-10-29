@@ -2258,7 +2258,7 @@ struct DragPreviewItem: View {
                     .antialiased(true)
                     .frame(width: iconSize, height: iconSize)
                 Text(app.name)
-                    .font(.default)
+                    .font(.body)
                     .foregroundColor(.primary)
                     .lineLimit(1)
                     .truncationMode(.tail)
@@ -2288,7 +2288,7 @@ struct DragPreviewItem: View {
                 }
                 
                 Text(folder.name)
-                    .font(.default)
+                    .font(.body)
                     .foregroundColor(.primary)
                     .lineLimit(1)
                     .truncationMode(.tail)
